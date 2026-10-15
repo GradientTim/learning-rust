@@ -1,0 +1,1 @@
+some resources to learn rust
